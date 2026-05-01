@@ -107,7 +107,7 @@ export default defineConfig({
 
     footer: {
       message: '基于 Apache 2.0 许可证发布 | 英文原文: <a href="https://github.com/google/A2UI">google/A2UI</a>',
-      copyright: 'Copyright 2024 Google LLC',
+      copyright: 'Copyright 2026 Google LLC',
     },
   },
 })
