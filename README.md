@@ -4,6 +4,8 @@ A2UI 协议的中文翻译文档。
 
 [英文原文](https://github.com/google/A2UI) | [在线文档](https://google.github.io/a2ui-docs-zh/)
 
+[中文翻译](https://ylfeng250.github.io/a2ui-docs-zh/)
+
 ## 同步上游文档
 
 ```bash
